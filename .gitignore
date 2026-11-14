@@ -19,3 +19,4 @@
 *.VC.db
 .vs/
 sysinfo.txt
+.DS_Store
