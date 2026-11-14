@@ -1,0 +1,3 @@
+- Recently found old Games project from 3rd year of University -
+-- Top-Down slasher game with separate scenes, using free Sprite Sets from Unity Store, and some questionable self produced Audio
+--- Looking to broaden this out in the coming months to make a more complete experience
